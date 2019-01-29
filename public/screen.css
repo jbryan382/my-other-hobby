@@ -10,3 +10,43 @@ body {
   margin: 0;
   min-height: 100%;
 }
+
+h1 {
+  color: moccasin;
+  text-align: center;
+  
+}
+
+h3 {
+  color: coral;
+  text-align: center;
+}
+
+h4 {
+  color: limegreen;
+  text-align: center;
+}
+
+p {
+  border: .25rem solid blueviolet;
+  padding: 1rem;
+  color: chartreuse
+}
+
+img {
+  width: 100%;
+  border: .75rem solid goldenrod;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav li {
+  display: inline; 
+}
+
+a {
+  text-decoration: none;
+  color: chartreuse
+}
